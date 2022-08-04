@@ -1,0 +1,13 @@
+﻿  AssemblyInfo.cpp
+D:\junFiles\IDebugClient\MixedModeStack_src\MixedModeStack_src\StackwalkApps\DiagApp\AssemblyInfo.cpp(52,29): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+D:\junFiles\IDebugClient\MixedModeStack_src\MixedModeStack_src\StackwalkApps\DiagApp\AssemblyInfo.cpp(52,29): message : Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  DiagApp.cpp
+  DiagCLib.cpp
+  DotNetHelper.cpp
+  NativeDebugging.cpp
+  Stackwalker.cpp
+  stdafx.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+D:\junFiles\IDebugClient\MixedModeStack_src\MixedModeStack_src\StackwalkApps\DiagApp\DiagApp.cpp(85): warning C4715: 'retCallstack': not all control paths return a value
+ARM\Debug\AssemblyInfo.obj : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'ARM'

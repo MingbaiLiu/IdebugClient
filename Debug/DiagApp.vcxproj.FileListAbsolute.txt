@@ -1,0 +1,4 @@
+D:\junFiles\IDebugClient\MixedModeStack_src\MixedModeStack_src\StackwalkApps\DiagApp\Debug\DiagApp.vcxproj.AssemblyReference.cache
+D:\junFiles\IDebugClient\MixedModeStack_src\MixedModeStack_src\StackwalkApps\DiagApp\Debug\DiagApp.vcxproj.SuggestedBindingRedirects.cache
+D:\junFiles\haveSendMislav_v1\DiagApp\Debug\DiagApp.vcxproj.AssemblyReference.cache
+D:\junFiles\haveSendMislav_v1\DiagApp\Debug\DiagApp.vcxproj.SuggestedBindingRedirects.cache

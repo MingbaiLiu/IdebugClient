@@ -1,0 +1,12 @@
+﻿  DiagCLib.cpp
+D:\junFiles\haveSendMislav_v1\DiagApp\sdk\inc\dbghelp.h(1548,2): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+D:\junFiles\haveSendMislav_v1\DiagApp\sdk\inc\dbghelp.h(3065,2): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+D:\junFiles\haveSendMislav_v1\DiagApp\DiagCLib.cpp(250,10): warning C4473: 'printf' : not enough arguments passed for format string
+D:\junFiles\haveSendMislav_v1\DiagApp\DiagCLib.cpp(250,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+D:\junFiles\haveSendMislav_v1\DiagApp\DiagCLib.cpp(250,10): message : the missing variadic argument 1 is required by format string '%li'
+D:\junFiles\haveSendMislav_v1\DiagApp\DiagCLib.cpp(260,10): warning C4473: 'printf' : not enough arguments passed for format string
+D:\junFiles\haveSendMislav_v1\DiagApp\DiagCLib.cpp(260,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+D:\junFiles\haveSendMislav_v1\DiagApp\DiagCLib.cpp(260,10): message : the missing variadic argument 1 is required by format string '%e'
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+CorGuids.lib(clrdata_i.obj) : warning LNK4099: PDB 'corguids.pdb' was not found with 'CorGuids.lib(clrdata_i.obj)' or at 'D:\junFiles\haveSendMislav_v1\x64\Debug\corguids.pdb'; linking object as if no debug info
+  DiagApp.vcxproj -> D:\junFiles\haveSendMislav_v1\x64\Debug\DiagApp.exe
